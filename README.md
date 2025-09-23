@@ -1,10 +1,10 @@
 # MenorCaminho
 
 Temas:
-- Grafos
+- Grafos 2
 
-**Número da Lista**: x<br>
-**Conteúdo da Disciplina**: Grafos <br>
+**Número da Lista**: 34<br>
+**Conteúdo da Disciplina**: Dijkstra <br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -36,13 +36,13 @@ O projeto tem como objetivo demonstrar a aplicação prática do algoritmo de Di
 ## Screenshots
 
 ### Página Principal
-![Página Principal](public/interface_principal.png)
+![Página Principal](public/1.png)
 
 ### Seleção de Estações
-![Seleção de Estações](public/selecao_pontos.png)
+![Seleção de Estações](public/2.png)
 
-### Resultado da Rota
-![Resultado da Rota](public/resultado_caminho.png)
+### JSON utilizado
+![Resultado da Rota](public/3.png)
 
 ## Instalação 
 
@@ -73,4 +73,4 @@ http://localhost:3000
 
 ## Videos
 
-[Link para vídeo de demonstração]
+(https://drive.google.com/file/d/10e4c5ZQRMM4DeC45ccESU4zuJ71H-clH/view?usp=sharing)
